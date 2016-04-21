@@ -7,7 +7,7 @@ A tool for parsering tieba post.
 ##Where
 `Python`-`2.7`
 
-`Windows`
+`Windows7`
 
 ##Use
 >[pyqt](https://riverbankcomputing.com)
