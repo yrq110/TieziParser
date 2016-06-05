@@ -15,6 +15,7 @@ A tool for parsering tieba post.
 >[urllib2](https://docs.python.org/2/library/urllib2.html)
 
 ##Usage
-* run dist/webTextControll.exe 
-* input post url
-* click btn
+
+1. Run dist/webTextControll.exe 
+2. Input post url
+3. Click the button
