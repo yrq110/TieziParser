@@ -4,7 +4,7 @@ A tool for parsering tieba post.
 
 `Tieba`  `Parse`
 
-##Where
+##Env
 `Python`-`2.7`
 
 `Windows7`
