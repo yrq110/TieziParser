@@ -1,4 +1,4 @@
-# Win-Tool-TieziParser
+#TieziParser
 
 A tool for parsering tieba post.
 
