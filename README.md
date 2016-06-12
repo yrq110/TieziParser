@@ -7,6 +7,8 @@ A tool for parsering tieba post.
 ##Env
 `Python`-`2.7`
 
+`PyQT`
+
 `Windows7`
 
 ##Use
